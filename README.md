@@ -8,7 +8,7 @@ Hi, I'm Erika!
 </h1>
   
 ## About
-I'm Erika, a web developer with a strong passion for creating visually engaging and intuitive user experiences. I specialize in frontend development with Nuxt.js, and I have a background in React from. I develop backend solutions using Python and Django.
+I'm Erika, a web developer with a strong passion for creating visually engaging and intuitive user experiences. I specialize in frontend development with Nuxt.js, and I have a background in React. I develop backend solutions using Python and Django.
 
 Beyond web development, I also design UX/UI for new features and full views, ensuring both functionality and aesthetics are seamlessly integrated. My goal is to deliver polished, user-centered solutions that elevate the digital experience.
 
